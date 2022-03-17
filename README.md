@@ -1,10 +1,10 @@
 # Portfolio Project
 
-**Project's task** is to create a small and naive contract recommendation system. It should help bank employees in proposing offers to new clients.
+**Project's task** is to create a small contract recommendation system. It should help bank's employees in proposing offers to new clients.
 
-To accomplish this task I separated this process into smaller parts:
+To accomplish this task, I have broken this process down into smaller parts:
 
-1. Notebooks:
+1. **Notebooks**:
 
 ✔️  Clustering bank statistics data into marketing segments
 
@@ -12,13 +12,13 @@ To accomplish this task I separated this process into smaller parts:
 
 ⭕  Neural Network model classifying clients into clusters with statistics
 
-2. Database:
+2. **Database**:
 
 ✔️  Build initial database with MySQL
 
 ⭕  Expand it to allow App and Database communication
 
-3. Web App:
+3. **Web App**:
 
 ⭕  Build the App using [Strimlit](https://streamlit.io)
 
