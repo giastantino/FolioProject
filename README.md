@@ -12,17 +12,11 @@ To accomplish this task, I have broken this process down into smaller parts:
 
 ⭕  Neural Network model classifying clients into clusters with statistics
 
-2. **Database**:
 
-✔️  Build initial database with MySQL
-
-⭕  Expand it to allow App and Database communication
-
-3. **Web App**:
+2. **Web App**:
 
 ⭕  Build the App using [Strimlit](https://streamlit.io)
 
-⭕  Enable App and Database cloud communication
 
 ***
 
@@ -33,8 +27,6 @@ The main **purpose of this repository** is to present my skills in:
 📊 data visualization: plotly and matplotlib
 
 🦾 machine learning: sklearn and torch
-
-💾 data management: pandas and SQL
 
 ***
 
